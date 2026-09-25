@@ -76,7 +76,6 @@ export default function CommitLogPage() {
               animate={{ opacity: 1, x: 0 }}
               transition={{ delay: i * 0.2, duration: 0.6 }}
               whileHover="hover"
-              initial2="rest"
               className="relative group cursor-default"
             >
               {/* Timeline dot */}
